@@ -6,6 +6,7 @@ const Page404 = () => {
     <>
         <Header />
         <h1>Página Não Encontrada</h1>
+        <h2>Robô Confuso🤖</h2>
         <Footer />
     </>
   )

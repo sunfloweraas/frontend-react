@@ -9,7 +9,10 @@ const Home = () => {
         <Header />
         <div id="main">
             <Sidebar />
-            <Content />
+            <Content>
+              <h1>você está na Home </h1>
+              <h2>bem -vindo ✨</h2>
+            </Content>
         </div>
         <Footer />
     </>
